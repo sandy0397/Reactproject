@@ -1,0 +1,96 @@
+
+
+.welcome{
+    background-image: linear-gradient(to right,red,aqua,red,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.subscribe{
+    background-color:rgb(119, 72, 119);
+    color:yellow;
+    font-size: 21px;
+    font-weight: 500;
+    border-radius:8px;
+    padding:4px;
+    border: none;
+}
+
+.avatarstyle img{
+    height: 180px;
+    width: 180px;
+}
+.mainpage{
+    width: 100%;
+    margin: auto;
+    
+}
+.mainpage h1{
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.navbar-brand{
+    color: aqua;
+    font-size: 25px;
+
+}
+.nav-link{
+    color: aqua;
+    font-size: 20px;
+    
+}
+.fa-bars{
+    color: aqua;
+}
+
+.home{
+    display: flex;
+    background:url("/public/image/bg-image.jpg") no-repeat center;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    font-family: 'ubuntu',sans-serif; 
+    background-size: 100% 100%;
+}
+.home .max-width{
+    margin: auto 0 auto 40px;
+
+}
+
+.home .home-content .text-1{
+    font-size: 27px;
+    
+}
+.home .home-content .text-2{
+    font-size: 75px;
+    font-weight: 600;
+    margin-left: -3px;
+
+    
+}
+.home .home-content .text-3{  
+    font-size: 47px;
+    margin: 5px 0;
+    
+}
+.home .home-content .text-3 span{
+    color:white;
+    font-weight: 500;
+}
+
+
+
+
+
+@media (max-width:1200px) and (min-width:991px) {
+    .img-fluid{
+        padding-top: 80px;
+    }
+}
+@media (max-width:991px) and (min-width:768px) {
+    .img-fluid{
+        padding-top: 130px;
+    }
+}
