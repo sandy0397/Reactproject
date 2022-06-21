@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sandy0397/Reactproject.git/static/css/main.36e45226.css",
+    "main.js": "/sandy0397/Reactproject.git/static/js/main.a1973a43.js",
+    "static/media/bg-image.jpg": "/sandy0397/Reactproject.git/static/media/bg-image.4bd8583fa0515d65cd6b.jpg",
+    "index.html": "/sandy0397/Reactproject.git/index.html",
+    "main.36e45226.css.map": "/sandy0397/Reactproject.git/static/css/main.36e45226.css.map",
+    "main.a1973a43.js.map": "/sandy0397/Reactproject.git/static/js/main.a1973a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e45226.css",
+    "static/js/main.a1973a43.js"
+  ]
+}
